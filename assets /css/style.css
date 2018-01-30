@@ -1,0 +1,10 @@
+.jumbotron .jumbotron-fluid {
+	background-image: url('https://i.imgur.com/08nhfJ3.jpg'); 
+	background-size: cover; 
+	text-align: right; 
+	color: white; 
+	padding-bottom: 250px;
+	font-family: 'Courier New', Courier, monospace; 
+	font-weight: bold;
+	font-size: 55px
+}
